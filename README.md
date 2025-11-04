@@ -33,7 +33,7 @@ It’s designed to demonstrate **modern React skills**, including component arch
 ---
 
 ## 📂 Project Structure
-ReactProject1/
+ReactFlix/
 ├── src/
 │ ├── components/
 │ │ └── MovieCard.jsx
